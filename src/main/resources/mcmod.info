@@ -1,8 +1,8 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "Forge Mod API Example",
+    "description": "Example mod for using the Hypixel Mod API (1.8.9).",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "https://github.com/romangraef/Forge1.8.9Template/",
@@ -10,7 +10,7 @@
     "authorList": [
       "You"
     ],
-    "credits": "",
+    "credits": "nea89o",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
